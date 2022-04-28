@@ -1,0 +1,59 @@
+<div ng-controller="CustomerCtrl as ctrl" class="row justify-content-center">
+  <div class="col-6">
+    <h1 class="mt-5 text-center">{{ctrl.action}} Cliente</h1>
+    <form>
+      <div class="form-group">
+        <label for="customer-code">Código</label>
+        <input
+          readonly
+          type="text"
+          class="form-control"
+          id="customer-code"
+          name="customer-code"
+          ng-model="ctrl.customer.id"
+        />
+      </div>
+      <div class="form-group">
+        <label for="customer-name">Razão Social</label>
+        <input
+          type="text"
+          class="form-control"
+          id="customer-name"
+          name="customer-name"
+          ng-model="ctrl.customer.companyName"
+          placeholder="Ex: Software Ltda"
+        />
+      </div>
+      <div class="form-group">
+        <label for="customer-cnpj">CNPJ</label>
+        <input
+          type="text"
+          class="form-control"
+          id="customer-cnpj"
+          name="customer-cnpj"
+          ng-model="ctrl.customer.cnpj"
+          placeholder="Ex: 63.782.430/0001-22"
+          ui-br-cnpj-mask
+        />
+      </div>
+      <div class="form-group">
+        <label for="customer-createdAt">Data de Cadastro</label>
+        <input
+          readonly
+          type="text"
+          class="form-control"
+          id="customer-createdAt"
+          name="customer-createdAt"
+          ng-value="ctrl.customer.createdAt | date:'dd/MM/yyyy'"
+        />
+      </div>
+      <button
+        type="button"
+        class="mt-5 btn btn-success btn-lg btn-block"
+        ng-click="ctrl.commands.save()"
+      >
+        Salvar
+      </button>
+    </form>
+  </div>
+</div>

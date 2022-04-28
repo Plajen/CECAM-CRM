@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m7KbBoOlHmv+LGdd5nhNDW1HyNFQuoK5XBiIMirSxvE=",
+  "Source": "CECAM.API",
+  "BasePath": "_content/CECAM.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

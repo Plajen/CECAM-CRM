@@ -1,0 +1,17 @@
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\bin\Debug\net6.0\CECAM.Infra.deps.json
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\bin\Debug\net6.0\CECAM.Infra.runtimeconfig.json
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\bin\Debug\net6.0\CECAM.Infra.dll
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\bin\Debug\net6.0\CECAM.Infra.pdb
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\bin\Debug\net6.0\CECAM.Domain.dll
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\bin\Debug\net6.0\CECAM.Domain.pdb
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\CECAM.Infra.csproj.AssemblyReference.cache
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\CECAM.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\CECAM.Infra.AssemblyInfoInputs.cache
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\CECAM.Infra.AssemblyInfo.cs
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\CECAM.Infra.csproj.CoreCompileInputs.cache
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\CECAM.Infra.csproj.CopyComplete
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\CECAM.Infra.dll
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\refint\CECAM.Infra.dll
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\CECAM.Infra.pdb
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\CECAM.Infra.genruntimeconfig.cache
+C:\Coding\CECAM\CECAM.API\CECAM.Infra\obj\Debug\net6.0\ref\CECAM.Infra.dll

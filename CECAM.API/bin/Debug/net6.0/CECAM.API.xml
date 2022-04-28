@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Oliveira.API</name>
+    </assembly>
+    <members>
+        <member name="M:Oliveira.API.Controllers.BaseController`1.GetByQuery(Oliveira.Domain.Requests.SearchRequest)">
+            <summary>
+            CommandEnum: | 2 - List | 3 - Count |
+            </summary>
+        </member>
+        <member name="M:Oliveira.API.Controllers.BaseController`1.GetById(System.Int32)">
+            <summary>
+            CommandEnum: | 1 - Obtain |
+            </summary>
+        </member>
+        <member name="M:Oliveira.API.Controllers.BaseController`1.Post(Oliveira.Domain.Requests.EntityRequest{`0})">
+            <summary>
+            CommandEnum: | 4 - Create |
+            </summary>
+        </member>
+        <member name="M:Oliveira.API.Controllers.BaseController`1.Patch(Oliveira.Domain.Requests.IdRequest)">
+            <summary>
+            CommandEnum: | 6 - Activate | 7 - Deactivate | 8 - SoftDelete | 9 - Undelete |
+            </summary>
+        </member>
+        <member name="M:Oliveira.API.Controllers.BaseController`1.Put(System.Int32,Oliveira.Domain.Requests.EntityRequest{`0})">
+            <summary>
+            CommandEnum: | 5 - Update |
+            </summary>
+        </member>
+        <member name="M:Oliveira.API.Controllers.BaseController`1.Delete(System.Int32)">
+            <summary>
+            CommandEnum: | 10 - HardDelete |
+            </summary>
+        </member>
+    </members>
+</doc>

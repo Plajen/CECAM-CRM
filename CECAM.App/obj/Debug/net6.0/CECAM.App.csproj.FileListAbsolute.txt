@@ -1,0 +1,17 @@
+C:\Coding\CECAM\CECAM.API\CECAM.App\bin\Debug\net6.0\CECAM.App.deps.json
+C:\Coding\CECAM\CECAM.API\CECAM.App\bin\Debug\net6.0\CECAM.App.dll
+C:\Coding\CECAM\CECAM.API\CECAM.App\bin\Debug\net6.0\CECAM.App.pdb
+C:\Coding\CECAM\CECAM.API\CECAM.App\bin\Debug\net6.0\CECAM.Domain.dll
+C:\Coding\CECAM\CECAM.API\CECAM.App\bin\Debug\net6.0\CECAM.Infra.dll
+C:\Coding\CECAM\CECAM.API\CECAM.App\bin\Debug\net6.0\CECAM.Domain.pdb
+C:\Coding\CECAM\CECAM.API\CECAM.App\bin\Debug\net6.0\CECAM.Infra.pdb
+C:\Coding\CECAM\CECAM.API\CECAM.App\obj\Debug\net6.0\CECAM.App.csproj.AssemblyReference.cache
+C:\Coding\CECAM\CECAM.API\CECAM.App\obj\Debug\net6.0\CECAM.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\CECAM\CECAM.API\CECAM.App\obj\Debug\net6.0\CECAM.App.AssemblyInfoInputs.cache
+C:\Coding\CECAM\CECAM.API\CECAM.App\obj\Debug\net6.0\CECAM.App.AssemblyInfo.cs
+C:\Coding\CECAM\CECAM.API\CECAM.App\obj\Debug\net6.0\CECAM.App.csproj.CoreCompileInputs.cache
+C:\Coding\CECAM\CECAM.API\CECAM.App\obj\Debug\net6.0\CECAM.App.csproj.CopyComplete
+C:\Coding\CECAM\CECAM.API\CECAM.App\obj\Debug\net6.0\CECAM.App.dll
+C:\Coding\CECAM\CECAM.API\CECAM.App\obj\Debug\net6.0\refint\CECAM.App.dll
+C:\Coding\CECAM\CECAM.API\CECAM.App\obj\Debug\net6.0\CECAM.App.pdb
+C:\Coding\CECAM\CECAM.API\CECAM.App\obj\Debug\net6.0\ref\CECAM.App.dll

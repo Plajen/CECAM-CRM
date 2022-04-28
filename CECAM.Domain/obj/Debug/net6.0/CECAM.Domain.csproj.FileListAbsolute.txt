@@ -1,0 +1,12 @@
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\bin\Debug\net6.0\CECAM.Domain.deps.json
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\bin\Debug\net6.0\CECAM.Domain.dll
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\bin\Debug\net6.0\CECAM.Domain.pdb
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\obj\Debug\net6.0\CECAM.Domain.csproj.AssemblyReference.cache
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\obj\Debug\net6.0\CECAM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\obj\Debug\net6.0\CECAM.Domain.AssemblyInfoInputs.cache
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\obj\Debug\net6.0\CECAM.Domain.AssemblyInfo.cs
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\obj\Debug\net6.0\CECAM.Domain.csproj.CoreCompileInputs.cache
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\obj\Debug\net6.0\CECAM.Domain.dll
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\obj\Debug\net6.0\refint\CECAM.Domain.dll
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\obj\Debug\net6.0\CECAM.Domain.pdb
+C:\Coding\CECAM\CECAM.API\CECAM.Domain\obj\Debug\net6.0\ref\CECAM.Domain.dll

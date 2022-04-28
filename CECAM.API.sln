@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CECAM.API", "CECAM.API\CECAM.API.csproj", "{BF9B7A65-E136-41EB-BA1D-641D62C76104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CECAM.Infra", "CECAM.Infra\CECAM.Infra.csproj", "{57EF3B6A-53CD-4270-9D86-51A08FE5023C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CECAM.Domain", "CECAM.Domain\CECAM.Domain.csproj", "{3B332AC8-8041-43D7-BDBE-D3F0C1263DDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9020CE92-0A70-4677-A1D5-923D60A0AA79}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CECAM.CrossCutting.IoC", "CECAM.CrossCutting.IoC\CECAM.CrossCutting.IoC.csproj", "{953DDE59-1ADA-4AC3-BAA6-3DE7B4C967D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CECAM.App", "CECAM.App\CECAM.App.csproj", "{DF15D71A-8815-4468-B1D3-0BFE5BCCD394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9B7A65-E136-41EB-BA1D-641D62C76104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9B7A65-E136-41EB-BA1D-641D62C76104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9B7A65-E136-41EB-BA1D-641D62C76104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9B7A65-E136-41EB-BA1D-641D62C76104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EF3B6A-53CD-4270-9D86-51A08FE5023C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EF3B6A-53CD-4270-9D86-51A08FE5023C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EF3B6A-53CD-4270-9D86-51A08FE5023C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EF3B6A-53CD-4270-9D86-51A08FE5023C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B332AC8-8041-43D7-BDBE-D3F0C1263DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B332AC8-8041-43D7-BDBE-D3F0C1263DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B332AC8-8041-43D7-BDBE-D3F0C1263DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B332AC8-8041-43D7-BDBE-D3F0C1263DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953DDE59-1ADA-4AC3-BAA6-3DE7B4C967D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953DDE59-1ADA-4AC3-BAA6-3DE7B4C967D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953DDE59-1ADA-4AC3-BAA6-3DE7B4C967D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953DDE59-1ADA-4AC3-BAA6-3DE7B4C967D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF15D71A-8815-4468-B1D3-0BFE5BCCD394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF15D71A-8815-4468-B1D3-0BFE5BCCD394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF15D71A-8815-4468-B1D3-0BFE5BCCD394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF15D71A-8815-4468-B1D3-0BFE5BCCD394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F84051-102D-437D-BC8F-30FDA197ADE4}
+	EndGlobalSection
+EndGlobal
